@@ -9,3 +9,6 @@ https://lidemy.teachable.com/courses/enrolled
 4. infinite scroll
 5. i18n
 6. Webpack
+
+# 實作成果
+https://zaq258123.github.io/TwitchAPI/
