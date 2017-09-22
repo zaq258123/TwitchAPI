@@ -1,6 +1,6 @@
 # TwitchAPI
 Lidemy鋰學院，前端課程實作
-https://lidemy.teachable.com/courses/185961/lectures/2865485
+https://lidemy.teachable.com/courses/enrolled
 
 # 課程實作項目
 1. HTML/CSS切版
